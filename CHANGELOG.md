@@ -1,5 +1,11 @@
 # @browserbasehq/stagehand
 
+## 2.1.1
+
+### Patch Changes
+
+- [#664](https://github.com/browserbase/stagehand/pull/664) [`b5ca00a`](https://github.com/browserbase/stagehand/commit/b5ca00a25ad0c33a5f4d3198e1bc59edb9956e7c) Thanks [@miguelg719](https://github.com/miguelg719)! - remove unnecessary log
+
 ## 2.1.0
 
 ### Minor Changes
